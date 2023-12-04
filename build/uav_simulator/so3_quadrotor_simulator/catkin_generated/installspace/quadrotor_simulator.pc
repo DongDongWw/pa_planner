@@ -1,0 +1,8 @@
+prefix=/home/navii/pa_planner/install
+
+Name: quadrotor_simulator
+Description: Description of quadrotor_simulator
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: roscpp quadrotor_msgs uav_utils

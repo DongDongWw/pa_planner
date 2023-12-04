@@ -1,0 +1,8 @@
+prefix=/home/navii/pa_planner/devel
+
+Name: KinodynamicRRT
+Description: Description of KinodynamicRRT
+Version: 0.0.0
+Cflags: -I/home/navii/pa_planner/src/pa_planner/path_finding/KinodynamicRRT/include
+Libs: -L${prefix}/lib -lKinodynamicRRT
+Requires: plan_env message_runtime

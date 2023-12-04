@@ -1,0 +1,28 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/navii/pa_planner/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/navii/pa_planner/src/uav_simulator/mockamap/include/**",
+        "/home/navii/pa_planner/src/uav_simulator/Utils/multi_map_server/include/**",
+        "/home/navii/pa_planner/src/uav_simulator/Utils/pose_utils/include/**",
+        "/home/navii/pa_planner/src/uav_simulator/Utils/quadrotor_msgs/include/**",
+        "/home/navii/pa_planner/src/uav_simulator/so3_control/include/**",
+        "/home/navii/pa_planner/src/uav_simulator/so3_quadrotor_simulator/include/**",
+        "/home/navii/pa_planner/src/uav_simulator/Utils/uav_utils/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

@@ -1,0 +1,7 @@
+<launch>
+
+    <include file="$(find map_generator)/launch/random_map.xml" />
+
+    <include file="$(find quadrotor_simulator)/launch/quadrotor_simulator.xml" />
+
+</launch>

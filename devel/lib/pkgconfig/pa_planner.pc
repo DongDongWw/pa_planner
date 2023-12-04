@@ -1,0 +1,8 @@
+prefix=/home/navii/pa_planner/devel
+
+Name: pa_planner
+Description: Description of pa_planner
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
